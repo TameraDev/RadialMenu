@@ -2,7 +2,6 @@ import React from 'react';
 import { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { Button } from 'antd'
 import { RadialMenu } from './RadialMenu.jsx';
 
 class App extends Component {
